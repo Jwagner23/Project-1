@@ -7,7 +7,7 @@
 
 #include <stdexcept>
 
-#include "registrar.h"
+#include "Registrar.h"
 
 
 
